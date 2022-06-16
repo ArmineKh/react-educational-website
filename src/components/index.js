@@ -1,0 +1,13 @@
+export {default as Header } from './Header/Header';
+export {default as Footer } from './Footer/Footer';
+export {default as HeroSection } from './Hero-Section/HeroSection';
+export {default as Company } from './Company-section/Company';
+export {default as AboutUs } from './About-us/AboutUs';
+export {default as Courses } from './Courses-section/Courses';
+export {default as CourseCard } from './Courses-section/CourseCard';
+export {default as ChooseUs } from './Choose-us/ChooseUs';
+export {default as Features } from './Feature-section/Features';
+export {default as FreeCourse } from './Free-course-section/FreeCourse';
+export {default as FreeCourseCard } from './Free-course-section/FreeCourseCard';
+export {default as Testimonials } from './Testimonial/Testimonials';
+export {default as Newsletter } from './Newsletter/Newsletter';
